@@ -2,7 +2,7 @@
   [![R-CMD-check](https://github.com/nrennie/nrenniepkgdown/workflows/R-CMD-check/badge.svg)](https://github.com/Gchism94/gchismpkgdown/actions)
 <!-- badges: end -->
 
-# nrenniepkgdown
+# gchismpkgdown
 
 R package containing {pkgdown} theme
 
