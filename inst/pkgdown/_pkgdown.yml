@@ -5,7 +5,8 @@ template:
     fg: "#5c6d9c"
     primary: "#353839"
     heading_font: {google: "Montserrat"}
-    main_font: {google: "Raleway"}
+    base_font: {google: "Raleway"}
+    code_font: {google: "Space Mono"}
 navbar:
   structure:
     right: [github, linkedin, home]
