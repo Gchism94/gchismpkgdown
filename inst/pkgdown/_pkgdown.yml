@@ -5,6 +5,7 @@ template:
     fg: "#5c6d9c"
     primary: "#353839"
     heading_font: {google: "Montserrat"}
+    body_font: {google: "Raleway"}
 navbar:
   structure:
     right: [github, linkedin, home]
@@ -15,7 +16,7 @@ navbar:
       aria-label: GitHub
     linkedin:
       icon: fa-linkedin
-      href: https://uk.linkedin.com/in/greg-chism
+      href: https://linkedin.com/in/greg-chism
       aria-label: LinkedIn
     home:
       icon: fa-globe
