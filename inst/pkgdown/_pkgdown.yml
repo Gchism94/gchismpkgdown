@@ -4,9 +4,7 @@ template:
     bg: "#fbfcf8"
     fg: "#5c6d9c"
     primary: "#353839"
-    heading_font:
-      google: "Montserrat"
-
+    heading_font: google: "Montserrat"}
 navbar:
   structure:
     right: [github, linkedin, home]
