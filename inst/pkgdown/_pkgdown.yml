@@ -6,8 +6,7 @@ template:
     primary: "#353839"
     heading_font:
       google: "Montserrat"
-    main_font:
-      google: "Raleway"
+
 navbar:
   structure:
     right: [github, linkedin, home]
