@@ -7,4 +7,4 @@
 R package containing {pkgdown} theme
 
 ## Disclaimer
-Inspired by [Nicola Rennie's](https://nrennie.rbind.io/) repository [nrenniepkgdown](https://github.com/nrennie/nrenniepkgdown)
+Inspired by [Nicola Rennie's](https://nrennie.rbind.io/) personal theme repository [nrenniepkgdown](https://github.com/nrennie/nrenniepkgdown)
