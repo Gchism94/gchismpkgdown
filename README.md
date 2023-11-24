@@ -6,5 +6,14 @@
 
 R package containing {pkgdown} theme
 
+## Installation
+
+You can install the development version of gchismtt from [GitHub](https://github.com/Gchism94/gchismtt/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("Gchism94/gchismpkgdown")
+```
+
 ## Disclaimer
 Inspired by [Nicola Rennie's](https://nrennie.rbind.io/) personal theme repository [nrenniepkgdown](https://github.com/nrennie/nrenniepkgdown)
