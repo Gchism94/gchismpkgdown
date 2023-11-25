@@ -2,7 +2,7 @@ template:
   bootstrap: 5
   bslib:
     bg: "#fbfcf8"
-    fg: "#5c6d9c"
+    fg: "#4682B4"
     primary: "#353839"
     heading_font: {google: "Montserrat"}
     base_font: {google: "Raleway"}
